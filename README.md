@@ -1,2 +1,2 @@
 # program-web
-Repository website yang haikal buat.
+Repository website yang bisa kalian gunakan untuk belajar tentang pemograman web.
